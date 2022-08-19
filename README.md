@@ -1,7 +1,7 @@
-Computer System Engineer / Python Developer / Frontend Developer
+Computer System Engineer graduated from NED University Of Engineering & Technology
 
-I'm an enthusiastic Frontend Developer experienced in building websites and mobile applications.
-<--> Skills & Expertise <-->
+I'm an enthusiastic Frontend Developer/ Python Developer experienced in building websites and mobile applications. 
+Skills & Expertise: 
 Python
 HTML5
 CSS
